@@ -27,7 +27,7 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 
 # Required Audio Files
-Savee = "D:/Projects/Speech Emotion Recognition/SAVEE/"
+Savee = "./SAVEE_Folder/"
 savee_directory_list = os.listdir(Savee)
 
 file_emotion = []
